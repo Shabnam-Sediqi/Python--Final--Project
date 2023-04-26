@@ -1,8 +1,8 @@
 # Snake Game
-This game is a recreation of  the classic Nokia Snake Game which was launched in 1997 with the Nokia 6110.
+This game is a recreation of the classic Nokia Snake Game which was launched in 1997 with the Nokia 6110.
 
 
-# Porpus of the game
+# purpose of the game
 Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point. This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move
 
 
@@ -12,7 +12,7 @@ The player will control a moving snake inside a room(rectentgle shape), picking 
 
 # Features I will add in the future
  
-  -Adding graphic to snake which is a moving in form of rectangle right now
+  -Adding graphic to snake which is in form of rectangle right now
   -Adding graphic to playing area/room which is a plain green color now
   -Adding score board
 
