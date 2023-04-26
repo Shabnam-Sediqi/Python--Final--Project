@@ -17,7 +17,7 @@ The player will control a moving snake inside a room(rectentgle shape), picking 
   -Adding score board
 
 
-#Reuirements
+# Reuirements
 
 - Python 3.11.3 (download and install)
 - text Edidor/ IDE(any)
