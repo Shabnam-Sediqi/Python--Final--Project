@@ -8,7 +8,7 @@ Snake is a classic game that requires players to assess their surroundings and f
 
 # How to play?
 The player will control a moving snake inside a room(rectentgle shape), picking up some food that will randomly appear. the player should avoid hiiting its own tail or the edges of the palying area otherwise the game will end.Each time the snake eats a piece of food, its tail grows longer, making the game increasingly difficult and the score of player will also increase.
- - use up, down, Right and Left arrows form keyboard to change snake direction
+ - use Up, Down, Right and Left arrows form keyboard to change snake direction
 
 
 # Features I will add in the future
