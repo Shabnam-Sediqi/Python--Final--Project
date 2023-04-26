@@ -13,9 +13,9 @@ The player will control a moving snake inside a room(rectentgle shape), picking 
 
 # Features I will add in the future
  
-  - Adding graphic to snake which is in form of rectangle right now
-  - Adding graphic to playing area/room which is a plain green color now
-  - Adding score board
+ - Adding graphic to snake which is in form of rectangle right now
+ - Adding graphic to playing area/room which is a plain green color now
+ - Adding score board
 
 
 # Reuirements
