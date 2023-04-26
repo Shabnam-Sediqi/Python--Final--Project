@@ -25,3 +25,6 @@ The player will control a moving snake inside a room(rectentgle shape), picking 
 - Libraries used:
     pygame(install pygame library using powershell in windows then import in vs code)
     
+ -The photos should be in in a folder called "pictures" to be able to run this code ("pictures/drumstick.png")
+ or you can change the path
+    
