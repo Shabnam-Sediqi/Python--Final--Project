@@ -11,12 +11,6 @@ The player will control a moving snake inside a room(rectentgle shape), picking 
  - use Up, Down, Right and Left arrows form keyboard to change snake direction
 
 
-# Features I will add in the future
- 
- - Adding graphic to snake which is in form of rectangle right now
- - Adding score board
-
-
 # Reuirements
 
 - Python 3.11.3 (download and install)
